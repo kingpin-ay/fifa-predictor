@@ -1,0 +1,433 @@
+date,home_team,away_team,home_team_continent,away_team_continent,tournament,home_team_result
+17-06-1994,Germany,Bolivia,Europe,South America,FIFA World Cup,Win
+17-06-1994,Spain,Korea Republic,Europe,Asia,FIFA World Cup,Draw
+18-06-1994,Colombia,Romania,South America,Europe,FIFA World Cup,Lose
+18-06-1994,Italy,Republic of Ireland,Europe,Europe,FIFA World Cup,Lose
+18-06-1994,USA,Switzerland,North America,Europe,FIFA World Cup,Draw
+19-06-1994,Belgium,Morocco,Europe,Africa,FIFA World Cup,Win
+19-06-1994,Cameroon,Sweden,Africa,Europe,FIFA World Cup,Draw
+19-06-1994,Norway,Mexico,Europe,North America,FIFA World Cup,Win
+20-06-1994,Brazil,Russia,South America,Europe,FIFA World Cup,Win
+20-06-1994,Netherlands,Saudi Arabia,Europe,Asia,FIFA World Cup,Win
+21-06-1994,Argentina,Greece,South America,Europe,FIFA World Cup,Win
+21-06-1994,Germany,Spain,Europe,Europe,FIFA World Cup,Draw
+21-06-1994,Nigeria,Bulgaria,Africa,Europe,FIFA World Cup,Win
+22-06-1994,Romania,Switzerland,Europe,Europe,FIFA World Cup,Lose
+22-06-1994,USA,Colombia,North America,South America,FIFA World Cup,Win
+23-06-1994,Italy,Norway,Europe,Europe,FIFA World Cup,Win
+23-06-1994,Korea Republic,Bolivia,Asia,South America,FIFA World Cup,Draw
+24-06-1994,Brazil,Cameroon,South America,Africa,FIFA World Cup,Win
+24-06-1994,Mexico,Republic of Ireland,North America,Europe,FIFA World Cup,Win
+24-06-1994,Sweden,Russia,Europe,Europe,FIFA World Cup,Win
+25-06-1994,Argentina,Nigeria,South America,Africa,FIFA World Cup,Win
+25-06-1994,Belgium,Netherlands,Europe,Europe,FIFA World Cup,Win
+25-06-1994,Saudi Arabia,Morocco,Asia,Africa,FIFA World Cup,Win
+26-06-1994,Bulgaria,Greece,Europe,Europe,FIFA World Cup,Win
+26-06-1994,Switzerland,Colombia,Europe,South America,FIFA World Cup,Lose
+26-06-1994,USA,Romania,North America,Europe,FIFA World Cup,Lose
+27-06-1994,Bolivia,Spain,South America,Europe,FIFA World Cup,Lose
+27-06-1994,Germany,Korea Republic,Europe,Asia,FIFA World Cup,Win
+28-06-1994,Brazil,Sweden,South America,Europe,FIFA World Cup,Draw
+28-06-1994,Republic of Ireland,Norway,Europe,Europe,FIFA World Cup,Draw
+28-06-1994,Italy,Mexico,Europe,North America,FIFA World Cup,Draw
+28-06-1994,Russia,Cameroon,Europe,Africa,FIFA World Cup,Win
+29-06-1994,Belgium,Saudi Arabia,Europe,Asia,FIFA World Cup,Lose
+29-06-1994,Morocco,Netherlands,Africa,Europe,FIFA World Cup,Lose
+30-06-1994,Argentina,Bulgaria,South America,Europe,FIFA World Cup,Lose
+30-06-1994,Greece,Nigeria,Europe,Africa,FIFA World Cup,Lose
+02-07-1994,Germany,Belgium,Europe,Europe,FIFA World Cup,Win
+02-07-1994,Spain,Switzerland,Europe,Europe,FIFA World Cup,Win
+03-07-1994,Romania,Argentina,Europe,South America,FIFA World Cup,Win
+03-07-1994,Saudi Arabia,Sweden,Asia,Europe,FIFA World Cup,Lose
+04-07-1994,Netherlands,Republic of Ireland,Europe,Europe,FIFA World Cup,Win
+04-07-1994,USA,Brazil,North America,South America,FIFA World Cup,Lose
+05-07-1994,Mexico,Bulgaria,North America,Europe,FIFA World Cup,Lose
+05-07-1994,Nigeria,Italy,Africa,Europe,FIFA World Cup,Lose
+09-07-1994,Italy,Spain,Europe,Europe,FIFA World Cup,Win
+09-07-1994,Netherlands,Brazil,Europe,South America,FIFA World Cup,Lose
+10-07-1994,Bulgaria,Germany,Europe,Europe,FIFA World Cup,Win
+10-07-1994,Romania,Sweden,Europe,Europe,FIFA World Cup,Lose
+13-07-1994,Bulgaria,Italy,Europe,Europe,FIFA World Cup,Lose
+13-07-1994,Sweden,Brazil,Europe,South America,FIFA World Cup,Lose
+16-07-1994,Sweden,Bulgaria,Europe,Europe,FIFA World Cup,Win
+17-07-1994,Brazil,Italy,South America,Europe,FIFA World Cup,Win
+10-06-1998,Brazil,Scotland,South America,Europe,FIFA World Cup,Win
+10-06-1998,Morocco,Norway,Africa,Europe,FIFA World Cup,Draw
+11-06-1998,Cameroon,Austria,Africa,Europe,FIFA World Cup,Draw
+11-06-1998,Italy,Chile,Europe,South America,FIFA World Cup,Draw
+12-06-1998,France,South Africa,Europe,Africa,FIFA World Cup,Win
+12-06-1998,Paraguay,Bulgaria,South America,Europe,FIFA World Cup,Draw
+12-06-1998,Saudi Arabia,Denmark,Asia,Europe,FIFA World Cup,Lose
+13-06-1998,Korea Republic,Mexico,Asia,North America,FIFA World Cup,Lose
+13-06-1998,Netherlands,Belgium,Europe,Europe,FIFA World Cup,Draw
+13-06-1998,Spain,Nigeria,Europe,Africa,FIFA World Cup,Lose
+14-06-1998,Argentina,Japan,South America,Asia,FIFA World Cup,Win
+14-06-1998,Jamaica,Croatia,North America,Europe,FIFA World Cup,Lose
+15-06-1998,England,Tunisia,Europe,Africa,FIFA World Cup,Win
+15-06-1998,Germany,USA,Europe,North America,FIFA World Cup,Win
+15-06-1998,Romania,Colombia,Europe,South America,FIFA World Cup,Win
+16-06-1998,Brazil,Morocco,South America,Africa,FIFA World Cup,Win
+16-06-1998,Scotland,Norway,Europe,Europe,FIFA World Cup,Draw
+17-06-1998,Chile,Austria,South America,Europe,FIFA World Cup,Draw
+17-06-1998,Italy,Cameroon,Europe,Africa,FIFA World Cup,Win
+18-06-1998,France,Saudi Arabia,Europe,Asia,FIFA World Cup,Win
+18-06-1998,South Africa,Denmark,Africa,Europe,FIFA World Cup,Draw
+19-06-1998,Nigeria,Bulgaria,Africa,Europe,FIFA World Cup,Win
+19-06-1998,Spain,Paraguay,Europe,South America,FIFA World Cup,Draw
+20-06-1998,Belgium,Mexico,Europe,North America,FIFA World Cup,Draw
+20-06-1998,Japan,Croatia,Asia,Europe,FIFA World Cup,Lose
+20-06-1998,Netherlands,Korea Republic,Europe,Asia,FIFA World Cup,Win
+21-06-1998,Argentina,Jamaica,South America,North America,FIFA World Cup,Win
+21-06-1998,USA,IR Iran,North America,Asia,FIFA World Cup,Lose
+22-06-1998,Colombia,Tunisia,South America,Africa,FIFA World Cup,Win
+22-06-1998,Romania,England,Europe,Europe,FIFA World Cup,Win
+23-06-1998,Brazil,Norway,South America,Europe,FIFA World Cup,Lose
+23-06-1998,Chile,Cameroon,South America,Africa,FIFA World Cup,Draw
+23-06-1998,Italy,Austria,Europe,Europe,FIFA World Cup,Win
+23-06-1998,Scotland,Morocco,Europe,Africa,FIFA World Cup,Lose
+24-06-1998,France,Denmark,Europe,Europe,FIFA World Cup,Win
+24-06-1998,Nigeria,Paraguay,Africa,South America,FIFA World Cup,Lose
+24-06-1998,South Africa,Saudi Arabia,Africa,Asia,FIFA World Cup,Draw
+24-06-1998,Spain,Bulgaria,Europe,Europe,FIFA World Cup,Win
+25-06-1998,Belgium,Korea Republic,Europe,Asia,FIFA World Cup,Draw
+25-06-1998,Germany,IR Iran,Europe,Asia,FIFA World Cup,Win
+25-06-1998,Netherlands,Mexico,Europe,North America,FIFA World Cup,Draw
+26-06-1998,Argentina,Croatia,South America,Europe,FIFA World Cup,Win
+26-06-1998,Colombia,England,South America,Europe,FIFA World Cup,Lose
+26-06-1998,Japan,Jamaica,Asia,North America,FIFA World Cup,Lose
+26-06-1998,Romania,Tunisia,Europe,Africa,FIFA World Cup,Draw
+27-06-1998,Brazil,Chile,South America,South America,FIFA World Cup,Win
+27-06-1998,Italy,Norway,Europe,Europe,FIFA World Cup,Win
+28-06-1998,France,Paraguay,Europe,South America,FIFA World Cup,Win
+28-06-1998,Nigeria,Denmark,Africa,Europe,FIFA World Cup,Lose
+29-06-1998,Germany,Mexico,Europe,North America,FIFA World Cup,Win
+30-06-1998,Argentina,England,South America,Europe,FIFA World Cup,Win
+30-06-1998,Romania,Croatia,Europe,Europe,FIFA World Cup,Lose
+03-07-1998,Brazil,Denmark,South America,Europe,FIFA World Cup,Win
+03-07-1998,France,Italy,Europe,Europe,FIFA World Cup,Win
+04-07-1998,Germany,Croatia,Europe,Europe,FIFA World Cup,Lose
+04-07-1998,Netherlands,Argentina,Europe,South America,FIFA World Cup,Win
+07-07-1998,Brazil,Netherlands,South America,Europe,FIFA World Cup,Win
+08-07-1998,France,Croatia,Europe,Europe,FIFA World Cup,Win
+11-07-1998,Netherlands,Croatia,Europe,Europe,FIFA World Cup,Lose
+12-07-1998,France,Brazil,Europe,South America,FIFA World Cup,Win
+31-05-2002,France,Senegal,Europe,Africa,FIFA World Cup,Lose
+01-06-2002,Germany,Saudi Arabia,Europe,Asia,FIFA World Cup,Win
+01-06-2002,Republic of Ireland,Cameroon,Europe,Africa,FIFA World Cup,Draw
+01-06-2002,Uruguay,Denmark,South America,Europe,FIFA World Cup,Lose
+02-06-2002,Argentina,Nigeria,South America,Africa,FIFA World Cup,Win
+02-06-2002,England,Sweden,Europe,Europe,FIFA World Cup,Draw
+02-06-2002,Paraguay,South Africa,South America,Africa,FIFA World Cup,Draw
+02-06-2002,Spain,Slovenia,Europe,Europe,FIFA World Cup,Win
+03-06-2002,Brazil,Turkey,South America,Europe,FIFA World Cup,Win
+03-06-2002,Croatia,Mexico,Europe,North America,FIFA World Cup,Lose
+03-06-2002,Italy,Ecuador,Europe,South America,FIFA World Cup,Win
+04-06-2002,China PR,Costa Rica,Asia,North America,FIFA World Cup,Lose
+04-06-2002,Japan,Belgium,Asia,Europe,FIFA World Cup,Draw
+04-06-2002,Korea Republic,Poland,Asia,Europe,FIFA World Cup,Win
+05-06-2002,Germany,Republic of Ireland,Europe,Europe,FIFA World Cup,Draw
+05-06-2002,Russia,Tunisia,Europe,Africa,FIFA World Cup,Win
+05-06-2002,USA,Portugal,North America,Europe,FIFA World Cup,Win
+06-06-2002,Cameroon,Saudi Arabia,Africa,Asia,FIFA World Cup,Win
+06-06-2002,Denmark,Senegal,Europe,Africa,FIFA World Cup,Draw
+06-06-2002,France,Uruguay,Europe,South America,FIFA World Cup,Draw
+07-06-2002,Argentina,England,South America,Europe,FIFA World Cup,Lose
+07-06-2002,Spain,Paraguay,Europe,South America,FIFA World Cup,Win
+07-06-2002,Sweden,Nigeria,Europe,Africa,FIFA World Cup,Win
+08-06-2002,Brazil,China PR,South America,Asia,FIFA World Cup,Win
+08-06-2002,Italy,Croatia,Europe,Europe,FIFA World Cup,Lose
+08-06-2002,South Africa,Slovenia,Africa,Europe,FIFA World Cup,Win
+09-06-2002,Costa Rica,Turkey,North America,Europe,FIFA World Cup,Draw
+09-06-2002,Japan,Russia,Asia,Europe,FIFA World Cup,Win
+09-06-2002,Mexico,Ecuador,North America,South America,FIFA World Cup,Win
+10-06-2002,Korea Republic,USA,Asia,North America,FIFA World Cup,Draw
+10-06-2002,Portugal,Poland,Europe,Europe,FIFA World Cup,Win
+10-06-2002,Tunisia,Belgium,Africa,Europe,FIFA World Cup,Draw
+11-06-2002,Cameroon,Germany,Africa,Europe,FIFA World Cup,Lose
+11-06-2002,Denmark,France,Europe,Europe,FIFA World Cup,Win
+11-06-2002,Saudi Arabia,Republic of Ireland,Asia,Europe,FIFA World Cup,Lose
+11-06-2002,Senegal,Uruguay,Africa,South America,FIFA World Cup,Draw
+12-06-2002,Nigeria,England,Africa,Europe,FIFA World Cup,Draw
+12-06-2002,Slovenia,Paraguay,Europe,South America,FIFA World Cup,Lose
+12-06-2002,South Africa,Spain,Africa,Europe,FIFA World Cup,Lose
+12-06-2002,Sweden,Argentina,Europe,South America,FIFA World Cup,Draw
+13-06-2002,Costa Rica,Brazil,North America,South America,FIFA World Cup,Lose
+13-06-2002,Ecuador,Croatia,South America,Europe,FIFA World Cup,Win
+13-06-2002,Mexico,Italy,North America,Europe,FIFA World Cup,Draw
+13-06-2002,Turkey,China PR,Europe,Asia,FIFA World Cup,Win
+14-06-2002,Belgium,Russia,Europe,Europe,FIFA World Cup,Win
+14-06-2002,Japan,Tunisia,Asia,Africa,FIFA World Cup,Win
+14-06-2002,Korea Republic,Portugal,Asia,Europe,FIFA World Cup,Win
+14-06-2002,Poland,USA,Europe,North America,FIFA World Cup,Win
+15-06-2002,Denmark,England,Europe,Europe,FIFA World Cup,Lose
+15-06-2002,Germany,Paraguay,Europe,South America,FIFA World Cup,Win
+16-06-2002,Spain,Republic of Ireland,Europe,Europe,FIFA World Cup,Win
+16-06-2002,Sweden,Senegal,Europe,Africa,FIFA World Cup,Lose
+17-06-2002,Brazil,Belgium,South America,Europe,FIFA World Cup,Win
+17-06-2002,Mexico,USA,North America,North America,FIFA World Cup,Lose
+18-06-2002,Japan,Turkey,Asia,Europe,FIFA World Cup,Lose
+18-06-2002,Korea Republic,Italy,Asia,Europe,FIFA World Cup,Win
+21-06-2002,England,Brazil,Europe,South America,FIFA World Cup,Lose
+21-06-2002,Germany,USA,Europe,North America,FIFA World Cup,Win
+22-06-2002,Korea Republic,Spain,Asia,Europe,FIFA World Cup,Win
+22-06-2002,Senegal,Turkey,Africa,Europe,FIFA World Cup,Lose
+25-06-2002,Korea Republic,Germany,Asia,Europe,FIFA World Cup,Lose
+26-06-2002,Brazil,Turkey,South America,Europe,FIFA World Cup,Win
+29-06-2002,Korea Republic,Turkey,Asia,Europe,FIFA World Cup,Lose
+30-06-2002,Germany,Brazil,Europe,South America,FIFA World Cup,Lose
+09-06-2006,Germany,Costa Rica,Europe,North America,FIFA World Cup,Win
+09-06-2006,Poland,Ecuador,Europe,South America,FIFA World Cup,Lose
+10-06-2006,Argentina,Côte d'Ivoire,South America,Africa,FIFA World Cup,Win
+10-06-2006,England,Paraguay,Europe,South America,FIFA World Cup,Win
+10-06-2006,Trinidad and Tobago,Sweden,South America,Europe,FIFA World Cup,Draw
+11-06-2006,Angola,Portugal,Africa,Europe,FIFA World Cup,Lose
+11-06-2006,Mexico,IR Iran,North America,Asia,FIFA World Cup,Win
+11-06-2006,Serbia,Netherlands,Europe,Europe,FIFA World Cup,Lose
+12-06-2006,Australia,Japan,Oceania,Asia,FIFA World Cup,Win
+12-06-2006,Italy,Ghana,Europe,Africa,FIFA World Cup,Win
+12-06-2006,USA,Czech Republic,North America,Europe,FIFA World Cup,Lose
+13-06-2006,Brazil,Croatia,South America,Europe,FIFA World Cup,Win
+13-06-2006,France,Switzerland,Europe,Europe,FIFA World Cup,Draw
+13-06-2006,Korea Republic,Togo,Asia,Africa,FIFA World Cup,Win
+14-06-2006,Germany,Poland,Europe,Europe,FIFA World Cup,Win
+14-06-2006,Spain,Ukraine,Europe,Europe,FIFA World Cup,Win
+14-06-2006,Tunisia,Saudi Arabia,Africa,Asia,FIFA World Cup,Draw
+15-06-2006,Ecuador,Costa Rica,South America,North America,FIFA World Cup,Win
+15-06-2006,England,Trinidad and Tobago,Europe,South America,FIFA World Cup,Win
+15-06-2006,Sweden,Paraguay,Europe,South America,FIFA World Cup,Win
+16-06-2006,Argentina,Serbia,South America,Europe,FIFA World Cup,Win
+16-06-2006,Mexico,Angola,North America,Africa,FIFA World Cup,Draw
+16-06-2006,Netherlands,Côte d'Ivoire,Europe,Africa,FIFA World Cup,Win
+17-06-2006,Czech Republic,Ghana,Europe,Africa,FIFA World Cup,Lose
+17-06-2006,Italy,USA,Europe,North America,FIFA World Cup,Draw
+17-06-2006,Portugal,IR Iran,Europe,Asia,FIFA World Cup,Win
+18-06-2006,Brazil,Australia,South America,Oceania,FIFA World Cup,Win
+18-06-2006,France,Korea Republic,Europe,Asia,FIFA World Cup,Draw
+18-06-2006,Japan,Croatia,Asia,Europe,FIFA World Cup,Draw
+19-06-2006,Saudi Arabia,Ukraine,Asia,Europe,FIFA World Cup,Lose
+19-06-2006,Spain,Tunisia,Europe,Africa,FIFA World Cup,Win
+19-06-2006,Togo,Switzerland,Africa,Europe,FIFA World Cup,Lose
+20-06-2006,Costa Rica,Poland,North America,Europe,FIFA World Cup,Lose
+20-06-2006,Germany,Ecuador,Europe,South America,FIFA World Cup,Win
+20-06-2006,Paraguay,Trinidad and Tobago,South America,South America,FIFA World Cup,Win
+20-06-2006,Sweden,England,Europe,Europe,FIFA World Cup,Draw
+21-06-2006,IR Iran,Angola,Asia,Africa,FIFA World Cup,Draw
+21-06-2006,Côte d'Ivoire,Serbia,Africa,Europe,FIFA World Cup,Win
+21-06-2006,Netherlands,Argentina,Europe,South America,FIFA World Cup,Draw
+21-06-2006,Portugal,Mexico,Europe,North America,FIFA World Cup,Win
+22-06-2006,Croatia,Australia,Europe,Oceania,FIFA World Cup,Draw
+22-06-2006,Czech Republic,Italy,Europe,Europe,FIFA World Cup,Lose
+22-06-2006,Ghana,USA,Africa,North America,FIFA World Cup,Win
+22-06-2006,Japan,Brazil,Asia,South America,FIFA World Cup,Lose
+23-06-2006,Saudi Arabia,Spain,Asia,Europe,FIFA World Cup,Lose
+23-06-2006,Switzerland,Korea Republic,Europe,Asia,FIFA World Cup,Win
+23-06-2006,Togo,France,Africa,Europe,FIFA World Cup,Lose
+23-06-2006,Ukraine,Tunisia,Europe,Africa,FIFA World Cup,Win
+24-06-2006,Argentina,Mexico,South America,North America,FIFA World Cup,Win
+24-06-2006,Germany,Sweden,Europe,Europe,FIFA World Cup,Win
+25-06-2006,England,Ecuador,Europe,South America,FIFA World Cup,Win
+25-06-2006,Portugal,Netherlands,Europe,Europe,FIFA World Cup,Win
+26-06-2006,Italy,Australia,Europe,Oceania,FIFA World Cup,Win
+26-06-2006,Switzerland,Ukraine,Europe,Europe,FIFA World Cup,Lose
+27-06-2006,Brazil,Ghana,South America,Africa,FIFA World Cup,Win
+27-06-2006,Spain,France,Europe,Europe,FIFA World Cup,Lose
+30-06-2006,Germany,Argentina,Europe,South America,FIFA World Cup,Win
+30-06-2006,Italy,Ukraine,Europe,Europe,FIFA World Cup,Win
+01-07-2006,Brazil,France,South America,Europe,FIFA World Cup,Lose
+01-07-2006,England,Portugal,Europe,Europe,FIFA World Cup,Lose
+04-07-2006,Germany,Italy,Europe,Europe,FIFA World Cup,Lose
+05-07-2006,Portugal,France,Europe,Europe,FIFA World Cup,Lose
+08-07-2006,Germany,Portugal,Europe,Europe,FIFA World Cup,Win
+09-07-2006,Italy,France,Europe,Europe,FIFA World Cup,Win
+11-06-2010,South Africa,Mexico,Africa,North America,FIFA World Cup,Draw
+11-06-2010,Uruguay,France,South America,Europe,FIFA World Cup,Draw
+12-06-2010,Argentina,Nigeria,South America,Africa,FIFA World Cup,Win
+12-06-2010,England,USA,Europe,North America,FIFA World Cup,Draw
+12-06-2010,Korea Republic,Greece,Asia,Europe,FIFA World Cup,Win
+13-06-2010,Algeria,Slovenia,Africa,Europe,FIFA World Cup,Lose
+13-06-2010,Germany,Australia,Europe,Oceania,FIFA World Cup,Win
+13-06-2010,Serbia,Ghana,Europe,Africa,FIFA World Cup,Lose
+14-06-2010,Italy,Paraguay,Europe,South America,FIFA World Cup,Draw
+14-06-2010,Japan,Cameroon,Asia,Africa,FIFA World Cup,Win
+14-06-2010,Netherlands,Denmark,Europe,Europe,FIFA World Cup,Win
+15-06-2010,Brazil,Korea DPR,South America,Asia,FIFA World Cup,Win
+15-06-2010,Côte d'Ivoire,Portugal,Africa,Europe,FIFA World Cup,Draw
+15-06-2010,New Zealand,Slovakia,Oceania,Europe,FIFA World Cup,Draw
+16-06-2010,Honduras,Chile,North America,South America,FIFA World Cup,Lose
+16-06-2010,South Africa,Uruguay,Africa,South America,FIFA World Cup,Lose
+16-06-2010,Spain,Switzerland,Europe,Europe,FIFA World Cup,Lose
+17-06-2010,Argentina,Korea Republic,South America,Asia,FIFA World Cup,Win
+17-06-2010,France,Mexico,Europe,North America,FIFA World Cup,Lose
+17-06-2010,Greece,Nigeria,Europe,Africa,FIFA World Cup,Win
+18-06-2010,England,Algeria,Europe,Africa,FIFA World Cup,Draw
+18-06-2010,Germany,Serbia,Europe,Europe,FIFA World Cup,Lose
+18-06-2010,Slovenia,USA,Europe,North America,FIFA World Cup,Draw
+19-06-2010,Cameroon,Denmark,Africa,Europe,FIFA World Cup,Lose
+19-06-2010,Ghana,Australia,Africa,Oceania,FIFA World Cup,Draw
+19-06-2010,Netherlands,Japan,Europe,Asia,FIFA World Cup,Win
+20-06-2010,Brazil,Côte d'Ivoire,South America,Africa,FIFA World Cup,Win
+20-06-2010,Italy,New Zealand,Europe,Oceania,FIFA World Cup,Draw
+20-06-2010,Slovakia,Paraguay,Europe,South America,FIFA World Cup,Lose
+21-06-2010,Chile,Switzerland,South America,Europe,FIFA World Cup,Win
+21-06-2010,Portugal,Korea DPR,Europe,Asia,FIFA World Cup,Win
+21-06-2010,Spain,Honduras,Europe,North America,FIFA World Cup,Win
+22-06-2010,Greece,Argentina,Europe,South America,FIFA World Cup,Lose
+22-06-2010,Mexico,Uruguay,North America,South America,FIFA World Cup,Lose
+22-06-2010,Nigeria,Korea Republic,Africa,Asia,FIFA World Cup,Draw
+22-06-2010,South Africa,France,Africa,Europe,FIFA World Cup,Win
+23-06-2010,Australia,Serbia,Oceania,Europe,FIFA World Cup,Win
+23-06-2010,Ghana,Germany,Africa,Europe,FIFA World Cup,Lose
+23-06-2010,Slovenia,England,Europe,Europe,FIFA World Cup,Lose
+23-06-2010,USA,Algeria,North America,Africa,FIFA World Cup,Win
+24-06-2010,Cameroon,Netherlands,Africa,Europe,FIFA World Cup,Lose
+24-06-2010,Denmark,Japan,Europe,Asia,FIFA World Cup,Lose
+24-06-2010,Paraguay,New Zealand,South America,Oceania,FIFA World Cup,Draw
+24-06-2010,Slovakia,Italy,Europe,Europe,FIFA World Cup,Win
+25-06-2010,Chile,Spain,South America,Europe,FIFA World Cup,Lose
+25-06-2010,Korea DPR,Côte d'Ivoire,Asia,Africa,FIFA World Cup,Lose
+25-06-2010,Portugal,Brazil,Europe,South America,FIFA World Cup,Draw
+25-06-2010,Switzerland,Honduras,Europe,North America,FIFA World Cup,Draw
+26-06-2010,Uruguay,Korea Republic,South America,Asia,FIFA World Cup,Win
+26-06-2010,USA,Ghana,North America,Africa,FIFA World Cup,Lose
+27-06-2010,Argentina,Mexico,South America,North America,FIFA World Cup,Win
+27-06-2010,Germany,England,Europe,Europe,FIFA World Cup,Win
+28-06-2010,Brazil,Chile,South America,South America,FIFA World Cup,Win
+28-06-2010,Netherlands,Slovakia,Europe,Europe,FIFA World Cup,Win
+29-06-2010,Paraguay,Japan,South America,Asia,FIFA World Cup,Win
+29-06-2010,Spain,Portugal,Europe,Europe,FIFA World Cup,Win
+02-07-2010,Netherlands,Brazil,Europe,South America,FIFA World Cup,Win
+02-07-2010,Uruguay,Ghana,South America,Africa,FIFA World Cup,Win
+03-07-2010,Argentina,Germany,South America,Europe,FIFA World Cup,Lose
+03-07-2010,Paraguay,Spain,South America,Europe,FIFA World Cup,Lose
+06-07-2010,Uruguay,Netherlands,South America,Europe,FIFA World Cup,Lose
+07-07-2010,Germany,Spain,Europe,Europe,FIFA World Cup,Lose
+10-07-2010,Uruguay,Germany,South America,Europe,FIFA World Cup,Lose
+11-07-2010,Netherlands,Spain,Europe,Europe,FIFA World Cup,Lose
+12-06-2014,Brazil,Croatia,South America,Europe,FIFA World Cup,Win
+13-06-2014,Chile,Australia,South America,Oceania,FIFA World Cup,Win
+13-06-2014,Mexico,Cameroon,North America,Africa,FIFA World Cup,Win
+13-06-2014,Spain,Netherlands,Europe,Europe,FIFA World Cup,Lose
+14-06-2014,Colombia,Greece,South America,Europe,FIFA World Cup,Win
+14-06-2014,England,Italy,Europe,Europe,FIFA World Cup,Lose
+14-06-2014,Côte d'Ivoire,Japan,Africa,Asia,FIFA World Cup,Win
+14-06-2014,Uruguay,Costa Rica,South America,North America,FIFA World Cup,Lose
+15-06-2014,Argentina,Bosnia and Herzegovina,South America,Europe,FIFA World Cup,Win
+15-06-2014,France,Honduras,Europe,North America,FIFA World Cup,Win
+15-06-2014,Switzerland,Ecuador,Europe,South America,FIFA World Cup,Win
+16-06-2014,Germany,Portugal,Europe,Europe,FIFA World Cup,Win
+16-06-2014,Ghana,USA,Africa,North America,FIFA World Cup,Lose
+16-06-2014,IR Iran,Nigeria,Asia,Africa,FIFA World Cup,Draw
+17-06-2014,Belgium,Algeria,Europe,Africa,FIFA World Cup,Win
+17-06-2014,Brazil,Mexico,South America,North America,FIFA World Cup,Draw
+17-06-2014,Russia,Korea Republic,Europe,Asia,FIFA World Cup,Draw
+18-06-2014,Australia,Netherlands,Oceania,Europe,FIFA World Cup,Lose
+18-06-2014,Cameroon,Croatia,Africa,Europe,FIFA World Cup,Lose
+18-06-2014,Spain,Chile,Europe,South America,FIFA World Cup,Lose
+19-06-2014,Colombia,Côte d'Ivoire,South America,Africa,FIFA World Cup,Win
+19-06-2014,Japan,Greece,Asia,Europe,FIFA World Cup,Draw
+19-06-2014,Uruguay,England,South America,Europe,FIFA World Cup,Win
+20-06-2014,Honduras,Ecuador,North America,South America,FIFA World Cup,Lose
+20-06-2014,Italy,Costa Rica,Europe,North America,FIFA World Cup,Lose
+20-06-2014,Switzerland,France,Europe,Europe,FIFA World Cup,Lose
+21-06-2014,Argentina,IR Iran,South America,Asia,FIFA World Cup,Win
+21-06-2014,Germany,Ghana,Europe,Africa,FIFA World Cup,Draw
+21-06-2014,Nigeria,Bosnia and Herzegovina,Africa,Europe,FIFA World Cup,Win
+22-06-2014,Belgium,Russia,Europe,Europe,FIFA World Cup,Win
+22-06-2014,Korea Republic,Algeria,Asia,Africa,FIFA World Cup,Lose
+22-06-2014,USA,Portugal,North America,Europe,FIFA World Cup,Draw
+23-06-2014,Australia,Spain,Oceania,Europe,FIFA World Cup,Lose
+23-06-2014,Brazil,Cameroon,South America,Africa,FIFA World Cup,Win
+23-06-2014,Croatia,Mexico,Europe,North America,FIFA World Cup,Lose
+23-06-2014,Netherlands,Chile,Europe,South America,FIFA World Cup,Win
+24-06-2014,Costa Rica,England,North America,Europe,FIFA World Cup,Draw
+24-06-2014,Greece,Côte d'Ivoire,Europe,Africa,FIFA World Cup,Win
+24-06-2014,Italy,Uruguay,Europe,South America,FIFA World Cup,Lose
+24-06-2014,Japan,Colombia,Asia,South America,FIFA World Cup,Lose
+25-06-2014,Bosnia and Herzegovina,IR Iran,Europe,Asia,FIFA World Cup,Win
+25-06-2014,Ecuador,France,South America,Europe,FIFA World Cup,Draw
+25-06-2014,Honduras,Switzerland,North America,Europe,FIFA World Cup,Lose
+25-06-2014,Nigeria,Argentina,Africa,South America,FIFA World Cup,Lose
+26-06-2014,Algeria,Russia,Africa,Europe,FIFA World Cup,Draw
+26-06-2014,Korea Republic,Belgium,Asia,Europe,FIFA World Cup,Lose
+26-06-2014,Portugal,Ghana,Europe,Africa,FIFA World Cup,Win
+26-06-2014,USA,Germany,North America,Europe,FIFA World Cup,Lose
+28-06-2014,Brazil,Chile,South America,South America,FIFA World Cup,Win
+28-06-2014,Colombia,Uruguay,South America,South America,FIFA World Cup,Win
+29-06-2014,Costa Rica,Greece,North America,Europe,FIFA World Cup,Win
+29-06-2014,Netherlands,Mexico,Europe,North America,FIFA World Cup,Win
+30-06-2014,France,Nigeria,Europe,Africa,FIFA World Cup,Win
+30-06-2014,Germany,Algeria,Europe,Africa,FIFA World Cup,Win
+01-07-2014,Argentina,Switzerland,South America,Europe,FIFA World Cup,Win
+01-07-2014,Belgium,USA,Europe,North America,FIFA World Cup,Win
+04-07-2014,Brazil,Colombia,South America,South America,FIFA World Cup,Win
+04-07-2014,France,Germany,Europe,Europe,FIFA World Cup,Lose
+05-07-2014,Argentina,Belgium,South America,Europe,FIFA World Cup,Win
+05-07-2014,Netherlands,Costa Rica,Europe,North America,FIFA World Cup,Win
+08-07-2014,Brazil,Germany,South America,Europe,FIFA World Cup,Lose
+09-07-2014,Netherlands,Argentina,Europe,South America,FIFA World Cup,Lose
+12-07-2014,Brazil,Netherlands,South America,Europe,FIFA World Cup,Lose
+13-07-2014,Germany,Argentina,Europe,South America,FIFA World Cup,Win
+14-06-2018,Russia,Saudi Arabia,Europe,Asia,FIFA World Cup,Win
+15-06-2018,Egypt,Uruguay,Africa,South America,FIFA World Cup,Lose
+15-06-2018,Morocco,IR Iran,Africa,Asia,FIFA World Cup,Lose
+15-06-2018,Portugal,Spain,Europe,Europe,FIFA World Cup,Draw
+16-06-2018,France,Australia,Europe,Oceania,FIFA World Cup,Win
+16-06-2018,Argentina,Iceland,South America,Europe,FIFA World Cup,Draw
+16-06-2018,Peru,Denmark,South America,Europe,FIFA World Cup,Lose
+16-06-2018,Croatia,Nigeria,Europe,Africa,FIFA World Cup,Win
+17-06-2018,Costa Rica,Serbia,North America,Europe,FIFA World Cup,Lose
+17-06-2018,Germany,Mexico,Europe,North America,FIFA World Cup,Lose
+17-06-2018,Brazil,Switzerland,South America,Europe,FIFA World Cup,Draw
+18-06-2018,Sweden,Korea Republic,Europe,Asia,FIFA World Cup,Win
+18-06-2018,Belgium,Panama,Europe,North America,FIFA World Cup,Win
+18-06-2018,Tunisia,England,Africa,Europe,FIFA World Cup,Lose
+19-06-2018,Colombia,Japan,South America,Asia,FIFA World Cup,Lose
+19-06-2018,Poland,Senegal,Europe,Africa,FIFA World Cup,Lose
+19-06-2018,Russia,Egypt,Europe,Africa,FIFA World Cup,Win
+20-06-2018,Portugal,Morocco,Europe,Africa,FIFA World Cup,Win
+20-06-2018,Uruguay,Saudi Arabia,South America,Asia,FIFA World Cup,Win
+20-06-2018,IR Iran,Spain,Asia,Europe,FIFA World Cup,Lose
+21-06-2018,Denmark,Australia,Europe,Oceania,FIFA World Cup,Draw
+21-06-2018,France,Peru,Europe,South America,FIFA World Cup,Win
+21-06-2018,Argentina,Croatia,South America,Europe,FIFA World Cup,Lose
+22-06-2018,Brazil,Costa Rica,South America,North America,FIFA World Cup,Win
+22-06-2018,Nigeria,Iceland,Africa,Europe,FIFA World Cup,Win
+22-06-2018,Serbia,Switzerland,Europe,Europe,FIFA World Cup,Lose
+23-06-2018,Belgium,Tunisia,Europe,Africa,FIFA World Cup,Win
+23-06-2018,Korea Republic,Mexico,Asia,North America,FIFA World Cup,Lose
+23-06-2018,Germany,Sweden,Europe,Europe,FIFA World Cup,Win
+24-06-2018,England,Panama,Europe,North America,FIFA World Cup,Win
+24-06-2018,Japan,Senegal,Asia,Africa,FIFA World Cup,Draw
+24-06-2018,Poland,Colombia,Europe,South America,FIFA World Cup,Lose
+25-06-2018,Russia,Uruguay,Europe,South America,FIFA World Cup,Lose
+25-06-2018,Saudi Arabia,Egypt,Asia,Africa,FIFA World Cup,Win
+25-06-2018,Spain,Morocco,Europe,Africa,FIFA World Cup,Draw
+25-06-2018,IR Iran,Portugal,Asia,Europe,FIFA World Cup,Draw
+26-06-2018,Australia,Peru,Oceania,South America,FIFA World Cup,Lose
+26-06-2018,Denmark,France,Europe,Europe,FIFA World Cup,Draw
+26-06-2018,Nigeria,Argentina,Africa,South America,FIFA World Cup,Lose
+26-06-2018,Iceland,Croatia,Europe,Europe,FIFA World Cup,Lose
+27-06-2018,Korea Republic,Germany,Asia,Europe,FIFA World Cup,Win
+27-06-2018,Mexico,Sweden,North America,Europe,FIFA World Cup,Lose
+27-06-2018,Serbia,Brazil,Europe,South America,FIFA World Cup,Lose
+27-06-2018,Switzerland,Costa Rica,Europe,North America,FIFA World Cup,Draw
+28-06-2018,Japan,Poland,Asia,Europe,FIFA World Cup,Lose
+28-06-2018,Senegal,Colombia,Africa,South America,FIFA World Cup,Lose
+28-06-2018,Panama,Tunisia,North America,Africa,FIFA World Cup,Lose
+28-06-2018,England,Belgium,Europe,Europe,FIFA World Cup,Lose
+30-06-2018,France,Argentina,Europe,South America,FIFA World Cup,Win
+30-06-2018,Uruguay,Portugal,South America,Europe,FIFA World Cup,Win
+01-07-2018,Russia,Spain,Europe,Europe,FIFA World Cup,Win
+01-07-2018,Croatia,Denmark,Europe,Europe,FIFA World Cup,Win
+02-07-2018,Brazil,Mexico,South America,North America,FIFA World Cup,Win
+02-07-2018,Belgium,Japan,Europe,Asia,FIFA World Cup,Win
+03-07-2018,Sweden,Switzerland,Europe,Europe,FIFA World Cup,Win
+03-07-2018,Colombia,England,South America,Europe,FIFA World Cup,Lose
+06-07-2018,Uruguay,France,South America,Europe,FIFA World Cup,Lose
+06-07-2018,Brazil,Belgium,South America,Europe,FIFA World Cup,Lose
+07-07-2018,Sweden,England,Europe,Europe,FIFA World Cup,Lose
+07-07-2018,Russia,Croatia,Europe,Europe,FIFA World Cup,Lose
+10-07-2018,France,Belgium,Europe,Europe,FIFA World Cup,Win
+11-07-2018,Croatia,England,Europe,Europe,FIFA World Cup,Win
+14-07-2018,Belgium,England,Europe,Europe,FIFA World Cup,Win
+15-07-2018,France,Croatia,Europe,Europe,FIFA World Cup,Win
