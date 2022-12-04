@@ -1,0 +1,8 @@
+pip install venv
+clone the code from the git hub
+run python -m venv .
+run activated.bat from the script folder
+pip install -r requirements.txt
+change path location according to the device in datacreation.py file
+run python datacreation.py
+run python main.py
