@@ -1,5 +1,7 @@
 import pandas as pd
 import os
+
+file_path = "A:\\fifapredicter\\datasets\\team\\"  #Enter folder location
 # df = pd.read_csv(".\\datasets\\allrecords.csv")
 # df = pd.read_csv(".\\datasets\\realData.csv")
 # df = pd.read_csv(".\\datasets\\Data.csv")
@@ -100,7 +102,7 @@ for line in lines:
 
     # path creation
     line = line.replace("\n", "")
-    newpath = f"A:\\fifapredicter\\datasets\\team\\{line}"
+    newpath = file_path + line
     if not os.path.exists(newpath):
         os.makedirs(newpath)
 
@@ -131,7 +133,8 @@ for line in lines:
     data = pd.DataFrame(fifaWorldCup)
     data = data[(data['home_team'] == f'{line}') |
                 (data['away_team'] == f'{line}')]
-    data.to_csv(f'.\\datasets\\team\\{line}\\fifaWorldCupData.csv', encoding='utf-8')
+    data.to_csv(f'.\\datasets\\team\\{line}\\fifaWorldCupData.csv',
+                encoding='utf-8')
 
     #data from fifaWorldCupQualifiers
     data = pd.DataFrame(fifaWorldCupQualification)
@@ -147,7 +150,7 @@ for line in lines:
     data = {"win_rate_world_cup": [win_rate], "total_points": [points]}
     data = pd.DataFrame(data)
     data.to_csv(f".\\datasets\\team\\{line}\\data.csv", encoding='utf-8')
-    print(line, " ", win_rate)
+    # print(line, " ", win_rate)
 r16_teams.close()
 
 # File_object.readline([n])
